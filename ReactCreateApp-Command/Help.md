@@ -9,5 +9,5 @@
 ```
 
 ```bash
-  create-react-app <PROJECT NAME>
+  create-react-app <project-name>
 ```
