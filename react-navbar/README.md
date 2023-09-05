@@ -1,8 +1,11 @@
-# React + Vite
+# React Navbar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Screenshot
 
-Currently, two official plugins are available:
+![React-Navbar](https://github.com/Krishna-Gopal-Pathak/Web-Development/assets/142927819/bf55559f-3b93-450a-af1a-3b891591a3b2)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+- git clone
+- cd react-navbar
+- npm install
+- npm run dev
